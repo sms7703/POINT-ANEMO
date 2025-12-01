@@ -1,1 +1,0 @@
-pyinstaller -w -F "풍향풍속계 통합테스터 풍향풍속계 통합테스터 MS251120 ver2.py
